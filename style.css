@@ -1,0 +1,105 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+p{
+    padding-left: 10px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+header {
+    width: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+footer {
+    width: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+h2 {
+    font-size: 50px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    border-bottom: solid 3px black;
+    font-family: 'Comfortaa', cursive;
+}
+
+h3 {
+    font-size: 30px;
+    margin-left: 5px;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+h4 {
+    margin-left: 7px;
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+.headTitle {
+    font-size: 72px;
+}
+
+.navigation-list {
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.navigation-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.navigation-link {
+    text-decoration: none;
+    color: white;
+}
+
+.pf{
+    display: flex;
+    margin-left: 10%;
+}
+
+p .pf{
+    margin: 0;
+    width: 70%;
+}
+
+.aboutImage {
+    width: 50%;
+    border-radius:50%
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Palette Mosaic', cursive;
+}
+
+.homeAbout {
+    text-align: center;
+}
+
+.data-item {
+    color: rgb(58, 58, 58);
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.databaseImage {
+    text-align : center;
+}
