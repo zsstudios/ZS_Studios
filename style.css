@@ -47,6 +47,11 @@ h4 {
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+h3 a {
+    text-decoration: none;
+    color: black;
+}
+
 .headTitle {
     font-size: 72px;
 }
