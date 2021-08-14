@@ -126,3 +126,12 @@ p .pf{
     color: rgb(58, 58, 58);
     margin: 0 10px;
 }
+
+.blogList {
+    margin-left: 30px;
+}
+
+.blogLink {
+    color:black;
+    text-decoration: none;
+}
