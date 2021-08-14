@@ -8,6 +8,15 @@ p{
     font-family: 'Noto Sans JP', sans-serif;
 }
 
+h3 a {
+    color:black;
+    text-decoration: none;
+}
+
+h3 a:hover {
+    color:white;
+}
+
 header {
     width: 100%;
     padding: 15px 0;
@@ -50,9 +59,10 @@ h4 {
     font-family: 'M PLUS 1p', sans-serif;
 }
 
-h3 a {
-    text-decoration: none;
-    color: black;
+i {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 20px;
 }
 
 .ZSLogo {
@@ -110,4 +120,9 @@ p .pf{
 
 .databaseImage {
     text-align : center;
+}
+
+.date {
+    color: rgb(58, 58, 58);
+    margin: 0 10px;
 }
